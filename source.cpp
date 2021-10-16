@@ -10,7 +10,7 @@
 #include <time.h>
 #include <algorithm>
 #include "jsoncpp/json.h"
-#define Time_Set 0.98
+#define Time_Set 1.98
 #define MAXI 1000000
 using namespace std;
 
